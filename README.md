@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-📚 I hold a **Professional Master's Degree in Information Technology** from the University of Tirana and have completed specialized training in **Software Testing** at **Qendra Pro TIK**.  
+📚 I hold a **Professional Master's Degree in Information Technology** from the University of Tirana and have completed specialized training in **Software Testing** at **SDA Academy by Protik**.  
 🧰 I’m currently focused on **manual testing** and building a solid foundation in **automated testing**.  
 💪 Through personal projects, I've practiced creating test plans, writing test cases, and reporting bugs using industry-standard tools.
 
