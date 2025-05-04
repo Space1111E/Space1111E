@@ -1,6 +1,6 @@
 # 🧪 My Software Tester Portfolio
 
-👋 Hello! I'm **Elena B**, an entry-level Software Tester with a strong desire to learn, gain experience, and contribute to real-world projects.  
+👋 Hello! I'm **Elena**, an entry-level Software Tester with a strong desire to learn, gain experience, and contribute to real-world projects.  
 🎯 My goal is to ensure software quality and functionality at every stage of development.
 
 ---
