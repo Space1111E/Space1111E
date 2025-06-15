@@ -1,75 +1,52 @@
-#  Elena's Software Testing Portfolio
+#  Hi there! 👋 
+I'm **Elena** — a detail oriented software tester who enjoys breaking things (on purpose) so users can have a smoother experience.
 
-👋 Hello! I'm **Elena**, an enthusiastic Software Tester eager to grow and contribute to quality software projects.  
-🎯 My focus is on ensuring software functionality through manual and basic automated testing.
+With a background in **IT** and hands-on skills in **manual testing**, **API validation**, and **bug reporting**, I'm passionate about ensuring software doesn't just work — it works well.
 
----
+I test websites, APIs, and user flows by asking the "what if it breaks?" question — and then documenting exactly how (and why) it did.  
+From login flows to checkout chaos, I'm on a mission to find bugs before users do.
 
-## 💼 Skills
-
-### Manual Testing  
-- Functional Testing (Smoke, Regression, Exploratory)  
-- Usability Testing  
-- Writing Test Plans, Test Cases, and Test Scenarios  
-- Bug Reporting and Tracking (Jira, TestRail)  
-
-### API Testing  
-- Postman: Manual API testing with GET, POST, PUT, DELETE requests  
-- Validation of response codes, headers, payloads  
-- Writing and running basic API test scripts  
-
-### Automation Testing (Basic)  
-- Selenium WebDriver with Java/Python  
-- Creating and running automated test scripts  
-- Locators: XPath, CSS Selectors, ID, Name  
-- Implementing wait strategies (Implicit, Explicit waits)  
-- Understanding Page Object Model (POM) design pattern  
-
-### Tools & Technologies  
-- Version Control: Git, GitHub  
-- Test Management Tools: Jira, TestRail, Trello  
-- Browsers’ Developer Tools for debugging  
-- MS Excel and Google Sheets for test documentation  
+🚀 This portfolio includes real-world test cases, bug reports, checklists, and testing strategies I’ve applied to demo apps and APIs.  
+☕ Bonus: Most of these were tested under the influence of strong coffee and stronger curiosity.
 
 ---
 
-## 📁 Projects
+## 🔧 What I Do
 
-### 🛍 SauceDemo – Functional Testing  
-- Tested key flows: login, add to cart, checkout  
-- Created Test Plan, Test Cases, and Bug Reports  
-
-### 🌐 API Testing with Postman  
-- Tested fake API using GET, POST, PUT, DELETE  
-- Validated response codes, payloads, and negative test cases  
-
-### 💳 Parabank – Complex Test Case  
-- Developed detailed test case for money transfer workflow  
-- Included step-by-step actions and expected results  
+- ✅ Manual Testing: Functional · Smoke · Regression · Exploratory  
+- 🧪 API Testing with Postman  
+- 🐛 Bug Reporting & Tracking  
+- 📋 Writing clear, structured test cases  
+- 💡 Thinking like a user (and a little like a developer)
 
 ---
 
-## 🎓 Education
+## 🧠 About Me
 
-- **Professional Master in Information Technology**  
-  University of Tirana (2013 – 2015)
+🎓 MSc in IT – University of Tirana  
+🎯 Graduate of Software Testing Program @ SDA Academy by Protik  
+🌱 Currently learning more about test automation (Selenium, Java)
 
-- **Software Testing Training**  
-  SDA Academy by Protik (Completed June 2023)
+---
+
+## 🛠 Tools & Technologies
+
+🔧 **Postman** – REST API testing (GET, POST, PUT, DELETE, status code & payload validation)  
+🧪 **Selenium IDE** – UI test automation (record & playback for browser flows)  
+🐍 **Python (with Pytest)** – Writing and executing automated test scripts  
+🧠 **HTML, CSS, XPath & CSS Selectors** – Understanding DOM, styling, and element locators for UI debugging and automation  
+🗂 **TestRail / Jira / Trello** – Managing test cases, bug reports, and project tasks  
+🔍 **Chrome DevTools** – Inspecting elements, debugging console & network issues  
+🌐 **Git & GitHub** – Version control and collaboration on code and test repositories  
+📊 **Excel / Google Sheets** – Test case documentation, checklists, test plans  
+🧩 **VS Code** – Writing and editing code in Python, HTML, CSS
 
 ---
 
 ## 📬 Contact
 
-- GitHub: [https://github.com/Space1111E](https://github.com/Space1111E)  
-----
-
-## 🎉 Fun Facts About Me
-
-- ☕ Coffee is my secret weapon for long testing marathons.  
-- 🎧 Jazz music and testing go hand in hand in my workflow.  
-- 💡 Always curious — I believe every bug is a lesson in disguise.  
+💻 [GitHub](https://github.com/Space1111E)
 
 ---
 
-🧭 Thank you for visiting my portfolio! I’m open to new opportunities and collaborations. 🚀
+🧭 Thanks for visiting my portfolio! Feedback, collaborations, or coffee chats are always welcome. ☕
