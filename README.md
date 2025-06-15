@@ -1,13 +1,5 @@
 # 🧪 My Software Tester Portfolio
 
-
-![GitHub followers](https://img.shields.io/github/followers/Space1111E?style=social)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)  
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?style=flat&logo=postman)  
-![Selenium](https://img.shields.io/badge/Selenium-Test-orange?style=flat&logo=selenium)  
-![Java](https://img.shields.io/badge/Java-Programming-blue?style=flat&logo=java)  
-![Python](https://img.shields.io/badge/Python-Programming-green?style=flat&logo=python)
-
 👋 Hello! I'm **Elena**, an entry-level Software Tester with a strong desire to learn, gain experience, and contribute to real-world projects.  
 🎯 My goal is to ensure software quality and functionality at every stage of development.
 
