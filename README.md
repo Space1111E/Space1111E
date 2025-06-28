@@ -1,13 +1,12 @@
-#  Hi there! 👋 
-I'm **Elena** — a detail oriented software tester who enjoys breaking things (on purpose) so users can have a smoother experience.
+## 👋 Hi, I'm Elena
 
-With a background in **IT** and hands-on skills in **manual testing**, **API validation**, and **bug reporting**, I'm passionate about ensuring software doesn't just work — it works well.
+I'm a software tester focused on user experience, functionality, and clean reporting.
 
-I test websites, APIs, and user flows by asking the "what if it breaks?" question — and then documenting exactly how (and why) it did.  
-From login flows to checkout chaos, I'm on a mission to find bugs before users do.
+I work with web apps and APIs to catch bugs through manual testing and exploratory checks.  
+Currently expanding my skills by learning automation testing.  
+With a background in IT and a curious mindset, I focus on ensuring software runs as expected.
 
-🚀 This portfolio includes real-world test cases, bug reports, checklists, and testing strategies I’ve applied to demo apps and APIs.  
-☕ Bonus: Most of these were tested under the influence of strong coffee and stronger curiosity.
+☕ Mostly tested with coffee.
 
 ---
 
