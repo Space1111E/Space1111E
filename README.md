@@ -1,12 +1,13 @@
-## 👋 Hi, I'm Elena
+## 👋 Welcome! I’m Elena
 
-I'm a software tester focused on user experience, functionality, and clean reporting.
+Software tester focused on user experience, functionality, and clean reporting.
 
-I work with web apps and APIs to catch bugs through manual testing and exploratory checks.  
-Currently expanding my skills by learning automation testing.  
-With a background in IT and a curious mindset, I focus on ensuring software runs as expected.
+Working with web apps and APIs to catch bugs through manual testing and exploratory checks.  
+Currently expanding skills by learning automation testing.  
+With a background in IT and a curious mindset, the focus is on ensuring software runs as expected.
 
 ☕ Mostly tested with coffee.
+
 
 ---
 
