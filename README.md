@@ -23,7 +23,7 @@ With a background in IT and a curious mindset, the focus is on ensuring software
 
 ## 🧠 About Me
 
-🎓 MSc in IT – University of Tirana  
+🎓 MSc in IT – Faculty of Natural Sciences
 🎯 Graduate of Software Testing Program @ SDA Academy by Protik  
 🌱 Currently learning more about test automation (Selenium, Java)
 
