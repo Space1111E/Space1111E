@@ -1,6 +1,6 @@
 ## 👋 Welcome! I’m Elena
 
-Software tester focused on user experience, functionality, and clean reporting.
+Software tester focused on user experience, functionality and clean reporting.
 
 Working with web apps and APIs to catch bugs through manual testing and exploratory checks.  
 Currently expanding skills by learning automation testing.  
@@ -23,9 +23,9 @@ With a background in IT and a curious mindset, the focus is on ensuring software
 
 ## 🧠 About Me
 
-🎓 MSc in IT – Faculty of Natural Sciences
+🎓 MSc in IT – Faculty of Natural Sciences  
 🎯 Graduate of Software Testing Program @ SDA Academy by Protik  
-🌱 Currently learning more about test automation (Selenium, Java)
+🌱 Currently diving deeper into test automation with Selenium and Java  
 
 ---
 
